@@ -2,9 +2,9 @@
 For using golang & GRPC server you need some dependencies in your ubuntu let's update that first
 
 # Download Go in your Downloads Folder
-~~~
+
 https://dl.google.com/go/go1.17.5.linux-amd64.tar.gz
-~~~
+
 
 # Install Go by running
 ~~~
